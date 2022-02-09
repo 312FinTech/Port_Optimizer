@@ -9,5 +9,5 @@
     2.  Use Capital Asset Pricing Model (CAPM) to calculate the expected market returns 
     3.  Use Efficient Frontier theory to locate several optimal portfolio's that provide the greatest return for a given level of risk (standard deviation)
     4.  Risk Free rate assumption will be equal to overnight treasury repo's
-    5.  Have user input options based on their own risk profile.  1 = most aggressive to 10 = most risk averse
+    5.  Have user input options based on their own risk profile.  [1] most aggressive to [10] risk averse
 
